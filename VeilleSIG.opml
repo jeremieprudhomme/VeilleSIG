@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>VeilleSIG</title>
+    <dateCreated>Thu, 16 Apr 2026 10:39:35 +0200</dateCreated>
+  </head>
+  <body>
+    <outline text="Géomatique">
+      <outline text="ACCUEIL" type="rss" xmlUrl="https://www.agaricig.com/feed/" htmlUrl="https://www.agaricig.com/"/>
+      <outline text="Aide | cartes.gouv.fr" type="rss" xmlUrl="https://cartes.gouv.fr/aide/feed/feed.xml" htmlUrl="https://cartes.gouv.fr/aide/aide"/>
+      <outline text="arcOrama" type="rss" xmlUrl="https://www.blogger.com/feeds/21306256/posts/default?max-results=3&amp;redirect=false" htmlUrl="http://www.arcorama.fr/"/>
+      <outline text="BazinGa's" type="rss" xmlUrl="https://blog.arthurbazin.com/feed" htmlUrl="https://blog.arthurbazin.com/"/>
+      <outline text="Blog" type="rss" xmlUrl="https://hg-map.fr/?format=feed&amp;type=rss" htmlUrl="https://hg-map.fr/"/>
+      <outline text="Blog SIG &amp; Territoires" type="rss" xmlUrl="https://www.sigterritoires.fr/index.php/feed/" htmlUrl="https://www.sigterritoires.fr"/>
+      <outline text="Blog – Adrien Pavie" type="rss" xmlUrl="https://pavie.info/blog/index.xml" htmlUrl="https://pavie.info"/>
+      <outline text="Boston GIS Article Comments" type="rss" xmlUrl="http://www.bostongis.com/GISCommentsRss.aspx" htmlUrl="http://www.bostongis.com"/>
+      <outline text="Carnet (neo)cartographique" type="rss" xmlUrl="https://neocarto.hypotheses.org/feed" htmlUrl="https://neocarto.hypotheses.org"/>
+      <outline text="Cartographie numérique" type="rss" xmlUrl="https://www.blogger.com/feeds/8544922660673637156/posts/default" htmlUrl="https://cartonumerique.blogspot.com/"/>
+      <outline text="CrunchyData Blog" type="rss" xmlUrl="https://www.crunchydata.com/blog/rss.xml" htmlUrl="https://www.crunchydata.com/blog"/>
+      <outline text="Geodose" type="rss" xmlUrl="https://www.geodose.com/feeds/posts/default?alt=rss" htmlUrl="https://www.geodose.com/"/>
+      <outline text="GEOMATICK" type="rss" xmlUrl="https://www.geomatick.com/feed/" htmlUrl="https://www.geomatick.com"/>
+      <outline text="geoMusings by Bill Dollins" type="rss" xmlUrl="https://blog.geomusings.com/feed/" htmlUrl="https://blog.geomusings.com/"/>
+      <outline text="Geonov | FME | Smart Data, Open Data" type="rss" xmlUrl="https://www.geonov.fr/index.xml" htmlUrl="https://www.geonov.fr/"/>
+      <outline text="GeoRezo.net" type="rss" xmlUrl="https://georezo.net/extern.php" htmlUrl="https://georezo.net/"/>
+      <outline text="Geotribu" type="rss" xmlUrl="https://geotribu.fr/feed_rss_created.xml" htmlUrl="https://geotribu.fr/"/>
+      <outline text="GIS Crack" type="rss" xmlUrl="https://giscrack.com/feed/" htmlUrl="https://giscrack.com"/>
+      <outline text="GIS Lounge" type="rss" xmlUrl="https://www.geographyrealm.com/feed/" htmlUrl="https://www.gislounge.com"/>
+      <outline text="GéoInformations - Espace interministériel de l'information géographique" type="rss" xmlUrl="https://www.geoinformations.developpement-durable.gouv.fr/spip.php?page=backend-actu" htmlUrl="http://www.geoinformations.developpement-durable.gouv.fr/"/>
+      <outline text="Icem7" type="rss" xmlUrl="https://www.icem7.fr/feed/" htmlUrl="https://www.icem7.fr/"/>
+      <outline text="Pasq.fr" type="rss" xmlUrl="https://pasq.fr/feed/rss" htmlUrl="https://pasq.fr/"/>
+      <outline text="QGIS.org blog" type="rss" xmlUrl="https://blog.qgis.org/feed/" htmlUrl="https://blog.qgis.org/"/>
+      <outline text="QGIS Tips" type="rss" xmlUrl="https://qgis.tips/feed/" htmlUrl="https://qgis.tips/"/>
+      <outline text="Safe Software" type="rss" xmlUrl="http://feeds.feedburner.com/ItsAllAboutData" htmlUrl="https://www.safe.com"/>
+      <outline text="SIGMAG SIGTV.FR - Un autre regard sur la géomatique et les systèmes d'informations géographiques SIG" type="rss" xmlUrl="https://www.sigtv.fr/index.php?preaction=rss" htmlUrl="https://www.sigtv.fr/"/>
+      <outline text="Spatialists – geospatial news" type="rss" xmlUrl="https://spatialists.ch/index.xml" htmlUrl="https://spatialists.ch/"/>
+      <outline text="Spatial Thoughts" type="rss" xmlUrl="https://spatialthoughts.com/feed/" htmlUrl="https://spatialthoughts.com"/>
+      <outline text="Visionscarto" type="rss" xmlUrl="https://www.visionscarto.net/feed" htmlUrl="https://visionscarto.net/"/>
+    </outline>
+  </body>
+</opml>
