@@ -1,7 +1,7 @@
 # VeilleSIG
 Centralisation de ressources utilisées pour sa veille SIG.
 
-Cette liste est issue de mes ajouts au fur et à mesure du temps, mais vous pouvez proposez des ajouts.
+Cette liste est issue de mes ajouts au fur et à mesure du temps, mais vous pouvez proposez des ajouts via une issue ou une pull request.
 
 
 ## Sites / Blogs
